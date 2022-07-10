@@ -187,3 +187,4 @@ Big thanks to the [aqtinstall](https://github.com/miurahr/aqtinstall/) developer
 This action is distributed under the [MIT license](LICENSE).
 
 By using this action, you agree to the terms of Qt's licensing. See [Qt licensing](https://www.qt.io/licensing/) and [Licenses used by Qt](https://doc.qt.io/qt-5/licenses-used-in-qt.html). 
+
